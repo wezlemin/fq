@@ -8,6 +8,7 @@ Official Delta Docs: https://docs.deltaexploits.gg/
 - Osign (App)
 - IPASignX (Website)
 - WSFTeam (Website and/or App)
+- AppleJr (Website)
 - iosBoom (Website)
 
 ## External Sideloading Tools
