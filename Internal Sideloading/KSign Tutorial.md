@@ -3,12 +3,12 @@
 ### Read KSign Troubleshooting if you have any issues.
 
 ### Video Tutorials for KSign:
-https://www.youtube.com/watch?v=IpbxAlBTEjY
-https://www.youtube.com/watch?v=3-gPgycpzZo 
+- https://www.youtube.com/watch?v=IpbxAlBTEjY
+- https://www.youtube.com/watch?v=3-gPgycpzZo 
 
 ### Written Tutorials for KSign:
-https://docs.google.com/document/d/1H59uu1YVm0sVFCxIE5l1_JUZ3ZbxtfEGHi3P23sE8Rc/edit?tab=t.0
-https://docs.deltaexploits.gg/installation/ios
+- https://docs.google.com/document/d/1H59uu1YVm0sVFCxIE5l1_JUZ3ZbxtfEGHi3P23sE8Rc/edit?tab=t.0
+- https://docs.deltaexploits.gg/installation/ios
 
 ## Preparation
 >If you don't want to use khoindvn (just use it, it's safe), read the "KSign Method without khoindvn" section.
