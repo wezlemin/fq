@@ -52,4 +52,3 @@
      ```
      adb uninstall com.roblox.client
      ```
-**Tutorial by @kgthetwo; ChatGPT-refined.**
