@@ -13,11 +13,11 @@ If you can’t delete the ESigns/KSigns in VPN and Device Management, go to Sett
 Note for KSign: You can import Delta into Library immediately (this is not used because some users find it difficult to find the IPA).
 
 ## If you cannot access Khoindvn:
-> Use this website: https://wezlemin.github.io/ksignz/ (or read on...)
+> Use this website: https://khoindvn.pages.dev/ (or read on...)
 
 - If you cannot access https://khoindvn.io.vn, try these:
-> Use mobile/cellular data
-> Use hotspot
+> Use mobile/cellular data <br>
+> Use a personal hotspot <br>
 > Go to https://techybuff.com/ksign and see if you can download the KSigns there.
 
 - If it is just the KSign/ESign downloads that do not work (https://api.khoindvn.io.vn), right-click one (on khoindvn.io.vn or techybuff.com/ksign) and copy the link. Afterwards, go to https://www.view-page-source.com/, paste the link and look at its output. Here are some examples:
