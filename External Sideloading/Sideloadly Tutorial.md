@@ -1,5 +1,5 @@
 # Installing Delta via Sideloadly
-**Sideloadly Website (https://sideloadly.io)**
+**Sideloadly Website: https://sideloadly.io**
 
 ## Requirements
 - Mac running macOS 10.12 Sierra or later OR a Windows computer running Windows 7 or later
@@ -19,5 +19,3 @@
 > This guide was made for macOS but it should be identical for Windows.
 
 **⚠️ You must use Sideloadly to sideload the IPA again every time Delta updates or when 7 days have passed since your last sign. This is because with a free Apple ID, each signed app expires after 7 days, and Sideloadly can only re-sign via your computer.**
-
-**THIS TUTORIAL IS BY @quappingreal ON DISCORD**
