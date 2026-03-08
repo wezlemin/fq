@@ -29,7 +29,7 @@ Note for KSign: You can import Delta into Library immediately (this is not used 
 > itms-services://?action=download-manifest&url=https://download.khoindvn.io.vn/Plist/48bhl.plist
 > itms-services://?action=download-manifest&url=https://download.khoindvn.io.vn/Plist/3z8yi.plist
 
-- If you cannot access Khoindvn as a whole, you can try Osign (https://rentry.co/delta-osign) or the AppleJr signer (https://rentry.co/delta-applejr). 
+- If you cannot access Khoindvn as a whole, you can try Osign or the AppleJr signer. 
 
 ## If NONE of the KSigns or ESigns work (because they are all *REVOKED*/*BLACKLISTED*), you can do one of the following: 
 - You can use Direct Install if it is not down/broken.
@@ -45,5 +45,3 @@ Note for KSign: You can import Delta into Library immediately (this is not used 
 > To factory reset: https://support.apple.com/en-gb/108931
 
 **IF YOU CANNOT DO ANY OF THE ABOVE, YOU CANNOT EXPLOIT. WAIT FOR DIRECT INSTALL TO GET FIXED OR WAIT FOR NEW FREE CERTIFICATES TO GET RELEASED.**
-
-**THIS TUTORIAL IS BY @quappingreal ON DISCORD**
