@@ -1,4 +1,4 @@
-# Installing Delta with WSFTeam
+# Installing Delta via WSFTeam
 **This is an online signer unlike KSign which is an app. This is my Feather/Osign tutorial (https://rentry.co/delta-osign) without Feather/Osign.**
 1. Delete your current version of Delta Roblox. Turn your VPN off if you have one on.
 2. Download the Delta IPA by going to https://deltaexploits.gg. Use Safari.
@@ -30,5 +30,3 @@ Instead of signing the Delta IPA, you can just sign the WSF Portal IPA instead. 
 9. Wait for it to import, then click Sign on the Delta that appears.
 10. Click Start Signing and wait. Click Install when prompted.
 11. Once it says it's completed, just click Open and check your home screen. You can now click Delta and use it!
-
-**This tutorial was created by @kgthetwo on Discord**
