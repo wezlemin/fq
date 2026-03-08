@@ -57,5 +57,3 @@ To install SideStore, you will need:
 15. Wait until Delta appears. Click Keep App Extensions.
 16. Check your Home Screen; you now have Delta!
 > DO NOT TURN OFF LOCALDEVVPN OR BACKGROUND REFRESHING WILL NOT WORK (SO YOU WILL HAVE TO SIGN SIDESTORE AGAIN). LocalDevVPN is required to be turned on any time you wish to install, update, or refresh apps in SideStore.
-
-**This tutorial was made by @quappingreal on Discord!**
