@@ -3,7 +3,7 @@ Created by @quappingreal (Discord) / https://github.com/wezlemin (GitHub) <br>
 Official Delta Docs: https://docs.deltaexploits.gg/
 
 ## Internal Sideloading Tools
-- KSign (App)
+- **RECOMMENDED**: KSign (App)
 - Feather (App)
 - Osign (App)
 - IPASignX (Website)
@@ -12,7 +12,7 @@ Official Delta Docs: https://docs.deltaexploits.gg/
 - iosBoom (Website)
 
 ## External Sideloading Tools
-- SideStore
+- **RECOMMENDED**: SideStore
 - AltStore
 - Sideloadly
 
