@@ -1,6 +1,7 @@
 # Installing Delta via SideStore
-**Refer to https://docs.sidestore.io/docs/troubleshooting/error-codes#apple-developer-errors for any problems or additional information.**
-**If you want to see a different version of this guide, look at the Windows/MacOS/Linux sections here: https://docs.deltaexploits.gg/installation/ios**
+> Refer to https://docs.sidestore.io/docs/troubleshooting/error-codes#apple-developer-errors for any problems or additional information.
+
+> If you want to see a different version of this guide, look at the Windows/MacOS/Linux sections here: https://docs.deltaexploits.gg/installation/ios
 
 ## Requirements
 To install SideStore, you will need:
