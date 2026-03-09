@@ -3,9 +3,9 @@
 * [Home](README.md)
 
 * External Sideloading
-  * [AltStore Tutorial](altstore-tutorial.md)
-  * [SideStore Tutorial](sidestore-tutorial.md)
-  * [Sideloadly Tutorial](sideloadly-tutorial.md)
+  * [AltStore Tutorial](external-sideloading/altstore-tutorial.md)
+  * [SideStore Tutorial](external-sideloading/sidestore-tutorial.md)
+  * [Sideloadly Tutorial](external-sideloading/sideloadly-tutorial.md)
 
 * Internal Sideloading
   * [AppleJr Tutorial](AppleJr Tutorial.md)
