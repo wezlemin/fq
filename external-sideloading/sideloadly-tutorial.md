@@ -7,13 +7,13 @@
 - Apple ID
 
 ## Instructions:
-1. Connect your computer to your device (iPhone/iPad).
-2. Go to the website and download Sideloadly on your PC.
+1. Connect your computer to your iDevice (iPhone/iPad).
+2. Go to the website and download Sideloadly on your computer.
 3. Download the Delta IPA from https://deltaexploits.gg.
 4. Open Sideloadly and enter your Apple ID (email).
 5. Click on IPA and select the Delta IPA you downloaded.
 6. Click Start, enter your Apple ID password, and wait a few minutes.
-7. On your device, Delta should have downloaded. Go to VPN and Device Management, trust the app, then enable developer mode in Privacy and Security (iOS 16+)
+7. On your iDevice, Delta should have downloaded. Go to Settings, VPN and Device Management, trust the app, then enable developer mode in Privacy and Security (iOS 16+).
 8. After restarting, you should be able to open Delta!
 
 > This guide was made for macOS but it should be identical for Windows.
