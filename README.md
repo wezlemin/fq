@@ -1,6 +1,8 @@
 # Delta Docs (Unofficial)
+## Unofficial Delta Docs
 Created by @quappingreal (Discord) / https://github.com/wezlemin (GitHub) <br>
-Official Delta Docs: https://docs.deltaexploits.gg/
+Official Delta Docs: https://docs.deltaexploits.gg/ <br>
+Please be aware that this is not exhaustive. Read the official Delta Docs if you cannot find what you’re looking for here.
 
 * Internal Sideloading
   * [KSign Tutorial (Recommended)](internal-sideloading/ksign-tutorial.md)
