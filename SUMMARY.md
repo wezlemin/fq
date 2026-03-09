@@ -19,6 +19,7 @@
 
 * General
   * [Keysystem Tutorial](general/keysystem-tutorial.md)
+  * [Autoexecute (iOS)](general/autoexecution.md)
   * [Delta Asset Loading Fix](general/asset-fix.md)
   * [Making A Direct Install](general/making-a-direct-install.md)
   * [Android Package Fix](general/android-package-fix.md)
