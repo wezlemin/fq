@@ -17,6 +17,6 @@
   * [AltStore Tutorial](external-sideloading/altstore-tutorial.md)
 
 * General
-  * [Android Package Fix](Android Package Fix.md)
-  * [Keysystem Tutorial](Keysystem Tutorial.md)
-  * [Making A Direct Install](Making A Direct Install.md)
+  * [Keysystem Tutorial](general/keysystem-tutorial.md)
+  * [Making A Direct Install](general/making-a-direct-install.md)
+  * [Android Package Fix](general/android-package-fix.md)
