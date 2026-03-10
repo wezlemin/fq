@@ -1,8 +1,7 @@
-# Summary
+# Table of contents
 
 * [Home](README.md)
-
-* Internal Sideloading
+* [Internal Sideloading](internal-sideloading/README.md)
   * [KSign Tutorial (Recommended)](internal-sideloading/ksign-tutorial.md)
   * [KSign Troubleshooting](internal-sideloading/ksign-troubleshooting.md)
   * [Feather + OSign Tutorial](internal-sideloading/feather-osign-tutorial.md)
@@ -11,13 +10,11 @@
   * [WSFTeam Tutorial](internal-sideloading/wsfteam-tutorial.md)
   * [GBox Tutorial](internal-sideloading/gbox-tutorial.md)
   * [iosBoom Tutorial](internal-sideloading/iosboom-tutorial.md)
-
-* External Sideloading
+* [External Sideloading](external-sideloading/README.md)
   * [SideStore Tutorial (Recommended)](external-sideloading/sidestore-tutorial.md)
   * [Sideloadly Tutorial](external-sideloading/sideloadly-tutorial.md)
   * [AltStore Tutorial](external-sideloading/altstore-tutorial.md)
-
-* General
+* [General](general/README.md)
   * [Keysystem Tutorial](general/keysystem-tutorial.md)
   * [Autoexecute (iOS)](general/autoexecution.md)
   * [Delta Asset Loading Fix](general/asset-fix.md)
