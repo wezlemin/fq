@@ -4,7 +4,7 @@
 ## Requirements
 - Mac running macOS 10.12 Sierra or later OR a Windows computer running Windows 7 or later
 - iPhone/iPad with iOS 7 or higher
-- Apple ID
+- Apple ID & iCloud aged 13+
 
 ## Instructions:
 1. Connect your computer to your iDevice (iPhone/iPad).
