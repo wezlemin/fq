@@ -8,7 +8,7 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 
 **1. Download the IPA**
 
-* Follow the tutorial here: [Delta IPA Sign Tutorial](https://rentry.co/delta-ipasignx).
+* Read my IPASignX tutorial.
 * **Important:** Instead of clicking **Install Now**, choose **Download IPA**.
 
 **2. Host the IPA**
